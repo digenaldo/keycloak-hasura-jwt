@@ -1,3 +1,6 @@
+## 0.0.6 (August 04, 2020)
+  - add /keycloak prefix
+
 ## 0.0.5 (August 04, 2020)
   - fix parameter enable scripts
 
